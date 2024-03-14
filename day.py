@@ -18,3 +18,4 @@ print(one_hot_encoder.inverse_transform(oh_samples)) # 解码
 print(one_hot_encoder.categories_)
 print('a')
 print('b')
+print('d')
